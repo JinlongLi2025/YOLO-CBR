@@ -1,7 +1,6 @@
 # Introduction
 This repository contains the official implementation of our paper:
-Optimizing Lightweight Networks for Small Object Detection in Classroom Behavior Recognition
-The Visual Computer, 2025
+Optimizing Lightweight Networks for Small Object Detection in Classroom Behavior Recognition-The Visual Computer, 2025
 # Requirements
     python: 3.8+
     torch: 1.13.1+cuda117
@@ -10,6 +9,6 @@ The Visual Computer, 2025
     mmcv: 2.1.0
     mmengine: 0.9.0
 # Train
-Python train.py
+    Python train.py
 # Test
-Python test.py
+    Python test.py
