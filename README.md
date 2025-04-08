@@ -9,8 +9,8 @@ Optimizing Lightweight Networks for Small Object Detection in Classroom Behavior
     mmcv: 2.1.0
     mmengine: 0.9.0
 # Train
-We give an example, more details please see train.py
+    We give an example, more details please see train.py
     Python train.py
 # Test
-We give an example, more details please see train.py
+    We give an example, more details please see train.py
     Python test.py
