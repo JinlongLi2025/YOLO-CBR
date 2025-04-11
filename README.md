@@ -10,8 +10,3 @@ Optimizing Lightweight Networks for Small Object Detection in Classroom Behavior
 # Test
     We give an example, more details please see val.py
     Python val.py
-# Dataset
-The STCB Dataset is available at:
-[Click here to download from Baidu Drive ( Extraction Code: efbw)]( https://pan.baidu.com/s/14Nxn1o4TZRI1QVm4m5v9Wg?pwd=efbw).
-We give an example of images in STCB Dataset.
-![demo](assets/dataset.png)
